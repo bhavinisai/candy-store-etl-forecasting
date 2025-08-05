@@ -1,0 +1,37 @@
+product_id,product_name,product_category,product_subcategory,product_shape,sales_price,cost_to_make,stock
+1,Sea Salt Crackle Enrobed Bites,Toffee/Caramel,Enrobed,Bites,3.26,2.11,3257
+2,Almond Shards Enrobed Bites,Toffee/Caramel,Enrobed,Bites,8.5,4.96,2911
+3,Sea Salt Crackle Enrobed Slabs,Toffee/Caramel,Enrobed,Slabs,6.79,4.63,2524
+4,Almond Shards Enrobed Slabs,Toffee/Caramel,Enrobed,Slabs,3.62,1.75,4759
+5,Sea Salt Crackle Chews Bites,Toffee/Caramel,Chews,Bites,0.79,0.32,4444
+6,Almond Shards Chews Bites,Toffee/Caramel,Chews,Bites,7.3,3.42,4510
+7,Sea Salt Crackle Chews Slabs,Toffee/Caramel,Chews,Slabs,5.78,3.06,3478
+8,Almond Shards Chews Slabs,Toffee/Caramel,Chews,Slabs,5.13,2.37,2131
+9,Sea Salt Crackle Brittle Bites,Toffee/Caramel,Brittle,Bites,0.84,0.42,3350
+10,Almond Shards Brittle Bites,Toffee/Caramel,Brittle,Bites,7.64,5.18,2089
+11,Sea Salt Crackle Brittle Slabs,Toffee/Caramel,Brittle,Slabs,5.99,4.09,4504
+12,Almond Shards Brittle Slabs,Toffee/Caramel,Brittle,Slabs,0.6,0.4,3792
+13,Vitamin Coating Hard Standard,Sugar-Free,Hard,Standard,1.21,0.84,4216
+14,Natural Dyes Hard Standard,Sugar-Free,Hard,Standard,6.94,3.88,2821
+15,Vitamin Coating Hard Medicated Drops,Sugar-Free,Hard,Medicated Drops,5.26,3.01,3679
+16,Natural Dyes Hard Medicated Drops,Sugar-Free,Hard,Medicated Drops,8.33,4.47,2172
+17,Vitamin Coating Gummy Standard,Sugar-Free,Gummy,Standard,8.12,3.77,3396
+18,Natural Dyes Gummy Standard,Sugar-Free,Gummy,Standard,6.95,3.1,3953
+19,Vitamin Coating Gummy Medicated Drops,Sugar-Free,Gummy,Medicated Drops,1.65,1.09,3736
+20,Natural Dyes Gummy Medicated Drops,Sugar-Free,Gummy,Medicated Drops,1.77,0.9,2524
+21,Vitamin Coating Lozenges Standard,Sugar-Free,Lozenges,Standard,3.42,1.87,2150
+22,Natural Dyes Lozenges Standard,Sugar-Free,Lozenges,Standard,1.5,0.88,3621
+23,Vitamin Coating Lozenges Medicated Drops,Sugar-Free,Lozenges,Medicated Drops,9.05,5.79,4048
+24,Natural Dyes Lozenges Medicated Drops,Sugar-Free,Lozenges,Medicated Drops,5.32,2.53,4413
+25,Drizzle Filled Animals,Lollipops,Filled,Animals,4.99,2.09,4851
+26,Chocolate Dip Filled Animals,Lollipops,Filled,Animals,6.39,4.46,3951
+27,Drizzle Filled Hearts,Lollipops,Filled,Hearts,3.98,2.77,2958
+28,Chocolate Dip Filled Hearts,Lollipops,Filled,Hearts,6.81,3.71,2738
+29,Drizzle Standard Animals,Lollipops,Standard,Animals,3.84,1.97,4202
+30,Chocolate Dip Standard Animals,Lollipops,Standard,Animals,1.32,0.92,3713
+31,Drizzle Standard Hearts,Lollipops,Standard,Hearts,3.36,1.52,3876
+32,Chocolate Dip Standard Hearts,Lollipops,Standard,Hearts,0.99,0.56,3669
+33,Drizzle Swirl Animals,Lollipops,Swirl,Animals,1.03,0.67,3516
+34,Chocolate Dip Swirl Animals,Lollipops,Swirl,Animals,3.99,2.03,4993
+35,Drizzle Swirl Hearts,Lollipops,Swirl,Hearts,9.07,4.88,2348
+36,Chocolate Dip Swirl Hearts,Lollipops,Swirl,Hearts,1.84,0.74,4458

@@ -1,0 +1,6584 @@
+[
+  {
+    "transaction_id": 22436889,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T18:22:08.783689",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 37492975,
+    "customer_id": 3,
+    "timestamp": "2024-02-02T02:10:12.594538",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 30332391,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T03:34:30.005506",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 55869162,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T12:15:15.117528",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 66587784,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T04:25:56.464975",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 64932561,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T07:38:44.876359",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 39524816,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T08:05:41.402346",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 67917158,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T18:41:37.927859",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 19188364,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T05:47:05.252451",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 4269977,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T18:54:36.123523",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 68995672,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T21:31:04.412283",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 27262590,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T01:48:53.845129",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 67304700,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T07:59:50.069745",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": null
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 8909289,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T16:43:55.811691",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 4909149,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T23:20:49.898196",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 52769767,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T15:46:54.553494",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 8572302,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T09:21:04.160259",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": null
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 98831256,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T06:37:42.646240",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 4989818,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T09:10:39.981452",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 49975044,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T05:22:26.752375",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": null
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 87130929,
+    "customer_id": 7,
+    "timestamp": "2024-02-02T05:21:02.676161",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 13688360,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T14:44:34.753937",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 44905012,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T14:13:14.295410",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 40317923,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T22:56:49.842640",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": null
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 21650077,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T13:24:37.744547",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 78036327,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T21:41:54.116508",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 64429138,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T09:50:13.143471",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 39133504,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T14:30:12.005358",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 87634227,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T07:11:48.048295",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 19444556,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T00:22:56.122705",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 80498604,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T14:01:05.545746",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": null
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 25670397,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T11:03:42.180727",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 75703989,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T02:46:41.017404",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 26129020,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T00:33:41.521429",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 69205203,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T12:39:43.938328",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 37129976,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T06:14:00.636920",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 77766919,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T13:17:43.151383",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 25658457,
+    "customer_id": 15,
+    "timestamp": "2024-02-02T02:06:56.819223",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 57134667,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T09:11:31.749226",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 58808306,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T08:38:02.220206",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 93028342,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T17:03:23.643330",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 68044915,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T06:32:50.162361",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 15689145,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T08:23:19.019343",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 56809687,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T10:44:45.679515",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 60367188,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T07:56:43.800777",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 72861847,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T12:37:43.001115",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 81597578,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T09:50:58.648887",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 52005504,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T16:04:38.564218",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": null
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 4833172,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T04:55:59.646071",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": null
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 79841527,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T00:45:29.171444",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 56002638,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T11:56:45.447865",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 53713620,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T00:33:57.193155",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 85666259,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T23:48:16.814000",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 48622688,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T18:25:52.567711",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 45164139,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T11:17:10.736423",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 49069756,
+    "customer_id": 7,
+    "timestamp": "2024-02-02T15:12:16.806478",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 84542007,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T07:15:55.792274",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 59455634,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T05:48:44.152441",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 1320512,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T02:17:31.767607",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 71803262,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T10:46:01.361041",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 47019921,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T20:47:01.733725",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 40171655,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T08:11:10.599281",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 24994578,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T03:55:01.705260",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 22371984,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T18:20:56.866232",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 71848321,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T08:09:57.757376",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 19246562,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T04:16:29.363796",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 17112226,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T09:49:32.817267",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 23211311,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T07:20:50.379795",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 83608887,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T09:20:02.834574",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 74707615,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T18:45:58.281805",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 8314067,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T13:12:55.872874",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 83806631,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T11:22:15.116770",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 9530476,
+    "customer_id": 2,
+    "timestamp": "2024-02-02T01:36:28.630601",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 72598734,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T09:30:10.267710",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": null
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 72457044,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T21:25:18.257407",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 24057443,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T00:06:31.474908",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 85287675,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T17:21:59.287049",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 29650508,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T23:22:18.418796",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 89784877,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T16:12:47.340962",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 23803609,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T07:28:57.136820",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 83630866,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T04:08:01.450978",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 16569261,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T01:52:16.744442",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 4613699,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T15:05:31.614913",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 69979197,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T02:42:36.933846",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 63254470,
+    "customer_id": 3,
+    "timestamp": "2024-02-02T04:06:29.335518",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 87219588,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T11:05:57.082293",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 44534112,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T18:17:45.532732",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 20939447,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T16:42:53.920507",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 51510349,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T14:16:29.828038",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 86058148,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T10:28:53.964696",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 79892356,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T14:21:31.119106",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 73937524,
+    "customer_id": 15,
+    "timestamp": "2024-02-02T22:52:43.973626",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 48632510,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T17:48:00.795743",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 66147849,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T19:12:44.566167",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 20725053,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T02:59:51.810394",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 11291862,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T14:25:48.735567",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 68035004,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T07:36:37.119467",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 85905525,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T06:40:27.037688",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 9384490,
+    "customer_id": 7,
+    "timestamp": "2024-02-02T01:05:56.263932",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": null
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 77348321,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T08:57:29.763725",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 12538853,
+    "customer_id": 7,
+    "timestamp": "2024-02-02T07:32:57.049040",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 85646563,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T14:22:19.899662",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 52079993,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T07:32:43.128201",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 17782607,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T02:29:52.718106",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 62241003,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T01:59:22.373834",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 35953720,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T08:35:32.220515",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": null
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 82052852,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T14:58:08.337332",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": null
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 53963458,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T16:32:00.212551",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 5529484,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T21:46:39.507705",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 41915982,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T05:42:44.675734",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 61166703,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T04:33:15.686367",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 56756310,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T03:55:15.602094",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 68506952,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T10:23:49.411823",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": null
+      },
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 41265114,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T06:33:51.872947",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 69702297,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T16:30:47.386816",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 48594714,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T12:12:11.164925",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 4983094,
+    "customer_id": 3,
+    "timestamp": "2024-02-02T19:39:51.833214",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 97337858,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T03:12:53.143067",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 71511816,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T16:38:17.244991",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 73535667,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T23:47:47.738303",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 92291796,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T01:04:25.168719",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 33677545,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T00:11:08.393700",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 59428845,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T01:20:37.240630",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 93872290,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T02:14:06.838693",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 9514395,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T11:32:36.579192",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 9504714,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T23:36:13.179657",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 61381647,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T11:41:30.362978",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 46975300,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T14:52:29.820290",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 17833819,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T01:41:40.926073",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 11362215,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T11:12:23.143081",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 46694616,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T08:48:05.221593",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 66583967,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T14:40:22.533440",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 15593956,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T22:29:56.343151",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 39113025,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T01:59:52.890850",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 38695140,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T09:20:23.661944",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 30026341,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T08:15:34.679867",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 73515093,
+    "customer_id": 2,
+    "timestamp": "2024-02-02T06:27:25.359381",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": null
+      },
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 62467898,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T17:19:50.446700",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 20127539,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T15:00:29.689183",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 79667300,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T15:33:26.811647",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 39526029,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T00:43:09.990200",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 97989308,
+    "customer_id": 2,
+    "timestamp": "2024-02-02T12:23:51.279436",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 47412987,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T22:24:18.178404",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 68038227,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T17:57:18.605442",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 65724419,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T20:10:06.723682",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 88004985,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T06:31:36.027369",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 64551300,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T03:20:37.040272",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 5059619,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T12:42:10.143471",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 20253005,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T03:00:10.731629",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 72226724,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T11:58:08.319187",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 25194067,
+    "customer_id": 2,
+    "timestamp": "2024-02-02T05:59:14.569434",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 965840,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T21:59:52.264438",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 18482044,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T09:53:48.645023",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 31618334,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T13:36:40.517699",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 82810744,
+    "customer_id": 3,
+    "timestamp": "2024-02-02T05:03:22.580302",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 93984023,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T23:24:35.141300",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 12159920,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T10:03:19.066905",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 18926683,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T14:10:52.371303",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 11460238,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T08:39:38.412453",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": null
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 82167771,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T01:09:44.040859",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": null
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 37303667,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T11:56:16.938863",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 93141148,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T00:59:44.910837",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 73293183,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T13:55:27.425014",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 12852848,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T12:58:40.284538",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 11190694,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T20:19:56.854258",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 21872220,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T10:17:19.994080",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 5638894,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T02:54:42.981616",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 90548056,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T11:36:42.464828",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 92916421,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T20:12:30.055857",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 42845455,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T08:28:08.739343",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 9297198,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T02:40:07.273021",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 44469602,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T23:11:30.135052",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 34415060,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T00:54:55.458892",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 76279262,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T16:52:55.540101",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 60613637,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T18:28:42.524182",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": null
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 76808135,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T21:18:20.787355",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 55577210,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T06:40:30.885705",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": null
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 30297273,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T13:29:59.833036",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 54041407,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T20:18:51.320645",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 16421431,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T19:42:53.580523",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 77112006,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T11:06:25.522984",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 4395416,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T12:17:17.257427",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 99074763,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T18:06:17.652076",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 49490452,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T16:00:28.109204",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 34406950,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T21:52:42.882952",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 19845661,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T20:56:24.362804",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 21150626,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T13:33:48.707785",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 2163169,
+    "customer_id": 15,
+    "timestamp": "2024-02-02T21:41:42.292175",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 54144819,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T18:58:53.526730",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 45757344,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T21:37:39.212176",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 67412167,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T13:26:35.933526",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 45680420,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T20:26:10.746353",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": null
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 46561828,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T21:25:42.304827",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": null
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 75425876,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T04:49:18.104028",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 90851402,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T18:16:42.011810",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 49205129,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T09:09:48.969584",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": null
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 17511939,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T06:36:42.299921",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 98795742,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T08:55:10.279903",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 18976746,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T22:56:03.168560",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 40788108,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T16:26:15.308627",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 44389963,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T22:31:16.981526",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 62307594,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T02:07:27.825669",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 77526314,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T07:18:11.975871",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 76481216,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T16:30:14.956619",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 4270650,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T16:46:14.355896",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 24955190,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T20:35:03.089446",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 81004249,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T17:38:18.023377",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 70085895,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T16:09:08.302232",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 40043254,
+    "customer_id": 15,
+    "timestamp": "2024-02-02T11:30:36.208939",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 33361573,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T16:41:12.923819",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 85826916,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T07:06:52.029298",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 41104907,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T02:41:59.463643",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 5349679,
+    "customer_id": 3,
+    "timestamp": "2024-02-02T16:00:22.685497",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 98883958,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T04:26:42.495207",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 81035248,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T19:13:45.356802",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": null
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 45928538,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T01:07:01.050994",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": null
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 45037832,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T08:49:22.498703",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 46972342,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T12:04:50.986116",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 64847005,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T05:54:34.418978",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 10094586,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T15:54:00.986040",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 88893815,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T17:37:13.876316",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 53656833,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T23:07:54.399393",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 68436480,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T03:41:40.805343",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 56027913,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T07:26:40.702119",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 80787357,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T13:40:46.663420",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 29949215,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T01:56:11.187775",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 50873883,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T22:01:33.529892",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 98174478,
+    "customer_id": 3,
+    "timestamp": "2024-02-02T21:37:41.783419",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 65263823,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T07:13:15.476631",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 53023434,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T02:03:20.616545",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 84975826,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T02:53:36.988320",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 63889896,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T17:27:36.149804",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 61232898,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T13:51:45.158537",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 47520612,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T23:33:16.960132",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 92195517,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T23:02:57.552094",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 34247719,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T06:27:41.313521",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 10039918,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T12:10:13.908392",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": null
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 42519706,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T09:38:51.577447",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 13212782,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T06:38:26.600885",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 61043665,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T22:04:10.520888",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 11095838,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T22:37:35.425724",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 33183196,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T20:56:15.876046",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 83323510,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T11:27:13.048681",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 87707746,
+    "customer_id": 3,
+    "timestamp": "2024-02-02T04:30:52.441602",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 49276680,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T09:30:06.807730",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 49558459,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T05:09:35.627077",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 81152925,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T06:19:06.575032",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 19649824,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T08:13:46.435158",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 41164684,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T01:09:25.120796",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": null
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 79041692,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T09:33:49.912328",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 17697493,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T04:47:15.015969",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 58910578,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T16:19:10.497094",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 49986470,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T01:33:38.357662",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 21300132,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T19:35:29.758420",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 26317133,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T14:01:32.931329",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 29880043,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T07:11:00.974389",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 85935878,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T16:21:33.526546",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 31977156,
+    "customer_id": 7,
+    "timestamp": "2024-02-02T09:22:34.348348",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 92020512,
+    "customer_id": 15,
+    "timestamp": "2024-02-02T06:10:14.090541",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 84490944,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T20:40:47.551515",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 7208829,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T07:18:27.156986",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 11350464,
+    "customer_id": 1,
+    "timestamp": "2024-02-02T09:55:34.315670",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 17378925,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T17:01:15.585665",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 13449868,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T03:12:19.211701",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 40827128,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T23:55:31.674868",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 92900806,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T01:31:04.426095",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 88793149,
+    "customer_id": 9,
+    "timestamp": "2024-02-02T09:40:20.534456",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 53019136,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T21:32:24.842552",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Almond Shards Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 27033377,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T11:25:30.917215",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 25905856,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T02:28:06.335324",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": null
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 81999351,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T04:05:29.488275",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 85173809,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T19:38:20.307645",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 52662510,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T04:37:24.673310",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Drizzle Swirl Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 63341427,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T09:46:02.840686",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 51562923,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T00:47:30.602258",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": null
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Sea Salt Crackle Brittle Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 2367585,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T17:22:55.160119",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 7893293,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T11:59:50.099890",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 30505235,
+    "customer_id": 15,
+    "timestamp": "2024-02-02T00:06:49.093923",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 40904964,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T20:20:20.342509",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 38177172,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T23:08:54.137721",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Drizzle Filled Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 47834080,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T07:39:52.377145",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": null
+      },
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 73852984,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T07:32:48.689819",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocolate Dip Standard Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 35417594,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T04:19:30.574355",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 72501427,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T01:38:14.844502",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 28,
+        "product_name": "Chocolate Dip Filled Hearts",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Almond Shards Brittle Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Chocolate Dip Standard Hearts",
+        "qty": null
+      },
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 5645874,
+    "customer_id": 12,
+    "timestamp": "2024-02-02T02:13:35.333380",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 18122791,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T10:52:57.925995",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Drizzle Filled Animals",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 70266789,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T05:34:32.287785",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 39378061,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T17:17:18.060419",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Chocolate Dip Swirl Animals",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Sea Salt Crackle Brittle Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 87047343,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T16:46:50.206117",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 77772671,
+    "customer_id": 19,
+    "timestamp": "2024-02-02T05:09:00.392730",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Chocolate Dip Swirl Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 57256319,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T06:18:40.240990",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Drizzle Standard Hearts",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Drizzle Swirl Animals",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 26,
+        "product_name": "Chocolate Dip Filled Animals",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 43722450,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T04:43:11.349526",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 68590372,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T19:02:04.294926",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 13402035,
+    "customer_id": 26,
+    "timestamp": "2024-02-02T00:42:50.775861",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 47842299,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T00:12:07.993797",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Drizzle Standard Animals",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 7,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 23677339,
+    "customer_id": 2,
+    "timestamp": "2024-02-02T19:31:04.265547",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": null
+      }
+    ]
+  }
+]
