@@ -175,11 +175,11 @@ This batch ETL pipeline successfully automates the data processing workflow for 
 - Inventory levels dynamically updated
 - Data-driven forecasting for business planning
 
----
 
 ## Author
 
-**Bhavini Sai Mallu**
+**Bhavini Sai Mallu**  
 bhavini23sai@gmail.com
+
 
 ---
