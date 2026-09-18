@@ -177,11 +177,8 @@ This batch ETL pipeline successfully automates the data processing workflow for 
 
 
 ### Author
-Bhavini Sai Mallu
-bhavinisaimallu@gmail.com
-
 **Bhavini Sai Mallu**  
-bhavini23sai@gmail.com
+bhavinisaimallu@gmail.com
 
 
 ---
