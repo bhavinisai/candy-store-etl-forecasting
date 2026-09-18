@@ -4,7 +4,7 @@ Tiger's Candy, a candy store that originated on the RIT campus, has rapidly gain
 
 This project implements a data processing pipeline for Tiger's Candy that processes sales data, updates inventory, and generates sales forecasts. The batch processing ETL pipeline integrates MySQL and MongoDB data, and Spark and uses Prophet for time series forecasting.
 
-# Dataset Description 
+### Dataset Description 
 
 The dataset contains customer, product, and transaction data from Tiger's Candy Store spanning February 1st to 10th, 2024.
 
@@ -42,7 +42,7 @@ It contains transaction details including transaction_id, customer_id, timestamp
   },
 ```
 
-## Technologies Used
+### Technologies Used
 - Python
 - MySQL (customer and product data)
 - MongoDB (raw transaction data)
@@ -51,71 +51,71 @@ It contains transaction details including transaction_id, customer_id, timestamp
 
 ---
 
-## Features 
+### Features 
 
-### Data Loading: 
+#### Data Loading: 
 - Load customer and product data from CSV files into MySQL.
 - Load transaction data from JSON files into MongoDB.
 - Load MySQL data and MongoDB transaction data into a Spark session.
 
-### Order Processing:
+#### Order Processing:
 - Load and process orders from MySQL.
 - Load and process order line items and remove invalid records.
 
-### Daily Summary Calculation:
+#### Daily Summary Calculation:
 - Aggregate total sales and profit for each business date.
 - Sort the fully canceled orders.
 
-### Inventory Management:
+#### Inventory Management:
 - Deduct purchased quantities from stock.
 - Ensure that the stock does not go below zero.
 - Save updated inventory to **products_updated.csv**.
 
-### Forecasting:
+#### Forecasting:
 - Save the forecasted results to **sales_profit_forecast.csv**.
 
-## Steps in the Pipeline
+### Pipeline
 
-### 1. Data Initialization
+#### 1. Data Initialization
 - Load environment variables and configurations.
 - Establish a Spark session.
 - Initialize MySQL and MongoDB connections.
 
-### 2. Data Loading & Preprocessing
+#### 2. Data Loading & Preprocessing
 - Read customers and products tables from MySQL.
 - Load orders and order line items, ensuring valid entries.
 - Join orders with products and customers for processing.
 
-### 3. Processing Orders
+#### 3. Processing Orders
 - Sort and filter orders based on **order_datetime**.
 - Remove fully canceled orders by checking **quantity** in **order_line_items**.
 - Compute total sales and profit for valid orders.
 
-### 4. Daily Summary Calculation
+#### 4. Daily Summary Calculation
 - Aggregate:
   - **num_orders**: Count distinct valid orders per day.
   - **total_sales**: Sum of valid line totals.
   - **total_profit**: Sum of calculated profit margins.
 - Save to **daily_summary.csv**.
 
-### 5. Inventory Update
+#### 5. Inventory Update
 - Deduct ordered quantities from stock.
 - Ensure no negative stock values.
 - Save updated inventory to **products_updated.csv**.
 
-### 6. Forecasting Future Sales & Profits
+#### 6. Forecasting Future Sales & Profits
 - Use Prophet forecasting to model historical sales and profit trends.
 - Save the predicted values into **sales_profit_forecast.csv**.
 
 --- 
 
-## Setup 
+### Setup 
 
-### Set Environment Variables
+#### Set Environment Variables
 
 Create a `.env` file in the root directory by using the  `.env.example` file. 
 
-### Install Dependencies
+#### Install Dependencies
 
 ```bash
 python3 -m venv venv
@@ -125,7 +125,7 @@ pip install -r requirements.txt
 
 ---
 
-## Running the Pipeline
+#### Running the Pipeline
 
 To run the pipeline,
 
@@ -137,7 +137,7 @@ All the final CSVs will be saved in the path defined in `OUTPUT_PATH`.
 
 ---
 
-## Output
+### Output
 
 The following output files are generated in the output/ directory:
 
@@ -155,7 +155,7 @@ The following output files are generated in the output/ directory:
 - products_updated.csv — Final inventory after all deductions
 ---
 
-## Formatting
+### Formatting
 
 This project uses [Black](https://black.readthedocs.io/en/stable/) for automatic code formatting.
 
@@ -165,7 +165,7 @@ To format the code:
 black .
 ```
 
-## Conclusion 
+### Conclusion 
 
 This batch ETL pipeline successfully automates the data processing workflow for Tiger's Candy. It integrates customer, product, and transaction data from MySQL and MongoDB, processes daily sales using Apache Spark, maintains inventory accuracy, and generates actionable insights through daily summaries and time series forecasting with Prophet.
 
@@ -176,7 +176,9 @@ This batch ETL pipeline successfully automates the data processing workflow for 
 - Data-driven forecasting for business planning
 
 
-## Author
+### Author
+Bhavini Sai Mallu
+bhavinisaimallu@gmail.com
 
 **Bhavini Sai Mallu**  
 bhavini23sai@gmail.com
