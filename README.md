@@ -1,4 +1,4 @@
-## Batch Processing ETL Pipeline for Candy Store
+## End-to-End ETL Pipeline for Retail Sales Forecasting
 
 Tiger's Candy, a candy store that originated on the RIT campus, has rapidly gained popularity. To handle their growth, they have decided to build an automated data system for processing online orders in batches. 
 
